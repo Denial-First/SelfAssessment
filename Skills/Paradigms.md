@@ -65,8 +65,8 @@
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Factory Method k
+  - Abstract Factory k
   - Adapter
   - Observer
   - Strategy
