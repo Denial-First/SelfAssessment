@@ -5,7 +5,7 @@
   - `try..catch`
   - Non-blocking
   - Async I/O
-  - Thread pool
+  - Thread pool k
   - Pattern Reactor
   - CAS operations
   - epoll
