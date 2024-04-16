@@ -4,11 +4,11 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
+  - Algorithm k
   - Syntax
   - Semantics
   - Abstraction
-  - Paradigm
+  - Paradigm k
   - Programm
   - Programming paradigm
   - Programming language
@@ -24,7 +24,7 @@
   - Machine code
   - Microcode
   - Software engineering
-  - Decomposition
+  - Decomposition k
   - Control flow
   - Data flow
   - Code reuse
@@ -45,29 +45,29 @@
   - Method: 🎓 known
   - Class: 🎓 known
   - Prototype: 🎓 known
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
+  - Event k
+  - Type k
+  - Flag k
+  - Lexical scope k
+  - Code block k
+  - Conditions k
+  - Loops k
+  - Assignment k
+  - Regular expression k
+  - Interface k
   - Namespaces
-  - Call stack
+  - Call stack k
   - Naming conventions
   - Coding conventions
   - Camel case
   - Snake case
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early k
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types k
+  - Reference types k
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,20 +81,20 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
+  - Signature k
+  - Argument k
+  - Parameter k
+  - Pure function k
+  - Lambda expression k
+  - Side effects k
+  - Closure k
+  - Partial application k
   - Currying
-  - Higher order
-  - Recursion
+  - Higher order k
+  - Recursion k
   - Tail call optimisation
-  - Callback
-  - Listener
+  - Callback k
+  - Listener k
   - Composition
   - Pipe
   - Memoize
@@ -105,28 +105,28 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array k
   - Structure
   - Record
   - Enum
-  - Instance
-  - Object
-  - Collection
+  - Instance k
+  - Object k
+  - Collection k
   - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
+  - Hash table k
+  - Linked list k
+  - Doubly list k
+  - Unrolled list k
+  - Circular list k
+  - Queue k
+  - Stack k
+  - Deque k
+  - Tree k
   - Graph
   - Iterator
   - Mutable state
   - Immutable state
-  - Serialization
+  - Serialization k
   - String parsing
   - JSON
   - JSON5
@@ -146,7 +146,7 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter k
   - Polyfill
   - Interpreter
   - Linker
@@ -160,47 +160,47 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
+  - Refactoring k
+  - Code review k 
+  - Exception k
+  - Unittesting k
+  - git k
+  - Github k
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
-  - Improbability factor
-  - Accidental complexity
-  - Action at a distance
-  - Spaghetti
-  - Silver bullet
-  - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
-  - Premature optimization
-  - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
-  - Pass-through parameters
-  - Accumulate and fire
-  - Use switch/case
-  - Temporary field
-  - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
-  - Data clump
-  - Feature envy
-  - Monkey patch
-  - Yo-yo problem
+  - Magic numbers k
+  - Hard code k
+  - Soft code k
+  - Cryptic code k
+  - Improbability factor k
+  - Accidental complexity k
+  - Action at a distance k
+  - Spaghetti k
+  - Silver bullet k
+  - Not invented here k
+  - Dead code k
+  - Unreachable code k
+  - Duplicate code k
+  - Premature optimization k
+  - Micro-optimization k
+  - Nested loops k
+  - Long method/function/procedure k
+  - Long inheritance k
+  - Large class/file k
+  - Too many parameters k
+  - Pass-through parameters k
+  - Accumulate and fire k
+  - Use switch/case k
+  - Temporary field k
+  - Handle object as instances and hashes at the same time k
+  - Use fields instead of arguments k
+  - Data clump k
+  - Feature envy k
+  - Monkey patch k
+  - Yo-yo problem k
 - Runtimes and virtual machines
   - Bytecode
   - V8
