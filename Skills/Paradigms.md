@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+  - Procedural programming k
+  - Imperative programming k
+  - Structured programming k
+  - Non-structured programming k
+  - Functional programming k
+  - Prototype-based programming k
+  - Object-oriented programming k
   - Object-based programming
   - Generic programming
   - Concurrent computing
