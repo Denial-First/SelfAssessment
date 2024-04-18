@@ -99,10 +99,10 @@
   - Pipe
   - Memoize
   - Wrapper
-  - Functor
+  - Functor k
   - Monad
   - Monoid
-  - Generator
+  - Generator k
   - Coroutine
 - Data structures
   - Array k
@@ -122,8 +122,8 @@
   - Stack k
   - Deque k
   - Tree k
-  - Graph
-  - Iterator
+  - Graph k
+  - Iterator k
   - Mutable state
   - Immutable state
   - Serialization k
