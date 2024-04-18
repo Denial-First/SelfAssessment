@@ -9,15 +9,15 @@
   - Prototype-based programming k
   - Object-oriented programming k
   - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
+  - Generic programming k
+  - Concurrent computing K
+  - Asynchronous programming k
+  - Parallel programming k
+  - Reactive programming k
   - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
+  - Automata-based programming k
+  - Domain-specific languages k
+  - Multi-paradigm programming k
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
+  - Constructor k
   - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Static method k
+  - Method k
+  - Async method k
+  - Getters, Setters k
+  - Public fields k
+  - Private fields k
+  - Field declarations k
+  - Inheritance k
+  - Parent class k
+  - Polymorphism k
+  - Abstract class k
+  - Interface k
+  - Encapsulation k
   - Hidden class
   - Object form
-  - Instance
+  - Instance k
   - Introspection
   - Reflection
   - The diamond problem
