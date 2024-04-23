@@ -22,16 +22,16 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
+  - Callbacks k
+  - Callback-last-error-first k
+  - Thenable k
+  - Promise k
+  - Async/await k
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Sync generator k
+  - Async Generator k
+  - Async Iterator k
   - Event
   - Coroutine
   - Goroutine
@@ -47,25 +47,25 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter k
+  - Observable/Observer k
   - Readable
   - Writable
   - Transform
   - Async Pool
-  - Async Queue
+  - Async Queue k
   - Async Collector
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
+  - Timers k
+  - `setImmediate` k
+  - `nextTick` k
+  - AbortController k
+  - AbortSignal k
+  - Promise unhandled rejection k
+  - Promise double resolve k
   - Atomics
   - High resolution clock
   - Callback hell
