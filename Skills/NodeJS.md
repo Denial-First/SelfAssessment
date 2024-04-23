@@ -49,8 +49,8 @@
   - Deprecated domain API
   - Node.js single executable
   - SharedArrayBuffer
-  - Module `node:worker_threads`
-  - Module `node:child_process`
+  - Module `node:worker_threads` k
+  - Module `node:child_process` k
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
