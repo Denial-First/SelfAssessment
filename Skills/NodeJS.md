@@ -8,7 +8,7 @@
   - Event loop microtasks and macrotasks k
   - Garbage collection
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - I/O-bound, CPU-bound, memory-bound tasks k
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules k
@@ -16,9 +16,9 @@
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
-  - Contexts and scripts module `node:vm`
+  - Contexts and scripts module `node:vm`k
   - Dependencies: `npm`, `node_modules` k
-  - Files `package.json`, `package-lock.json`
+  - Files `package.json`, `package-lock.json` k
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,21 +26,21 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments k
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
-  - Clustering
+  - Clustering k
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
+  - Streams API k
   - Web Streams API
-  - Crypto API
+  - Crypto API k
   - Password hashing with crypto.scrypt
   - Web Crypto API
   - File system API (sync and async)
   - Copy folder recursively
-  - Worker threads
+  - Worker threads k
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
@@ -119,7 +119,7 @@
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools k
   - Flame graph
   - Memory leaks
   - Resource leaks
