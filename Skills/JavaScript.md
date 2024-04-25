@@ -114,8 +114,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js k
+  - npm k
   - prettier
   - MDN
   - TC39
