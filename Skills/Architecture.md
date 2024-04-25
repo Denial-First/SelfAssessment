@@ -7,13 +7,13 @@
   - GRASP k
   - SOLID k
   - GoF patterns
-  - CQS
+  - CQS k
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Transport-agnostic k
+  - Framework-agnostic k
   - Code coverage
   - Cohesion
   - Coupling
@@ -33,15 +33,15 @@
   - Metaprogramming
   - Inversion of control (IoC) k
   - Dependency injection (DI) k
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Clean architecture k
+  - Domain-driven design (DDD) k
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
+  - Message Queue (MQ) k
+  - CQRS k
+  - Event sourcing k
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
