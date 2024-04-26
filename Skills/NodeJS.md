@@ -77,7 +77,7 @@
   - Long polling
   - REST k
   - RPC k
-  - Routing
+  - Routing k
   - DoS
   - DDoS
   - XSS
