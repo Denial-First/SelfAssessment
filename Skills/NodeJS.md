@@ -67,16 +67,16 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) k
+  - TCP/SSL k
+  - UDP k
+  - TLS k
+  - Websocket k
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
-  - RPC
+  - REST k
+  - RPC k
   - Routing
   - DoS
   - DDoS
