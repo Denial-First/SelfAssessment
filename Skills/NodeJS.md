@@ -29,7 +29,7 @@
   - Command line arguments k
   - Node.js CLI
   - Process-based permissions
-  - Graceful shutdown
+  - Graceful shutdown k
   - Clustering k
   - Watch filesystem changes with --watch
 - Internal API
@@ -121,9 +121,9 @@
   - Heap dump
   - Debugging tools k
   - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Memory leaks k
+  - Resource leaks k
+  - Data race k
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons
